@@ -1,0 +1,19 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "Apply GitHub flow best practices and provide a good documentation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFarida/Hello-Microverse.git"
+  },
+  "author": "SFarida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFarida/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/SFarida/Hello-Microverse#readme"
+}
