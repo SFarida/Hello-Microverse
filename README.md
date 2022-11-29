@@ -36,10 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+
 - [👥 Authors](#authors)
 
 <!-- PROJECT DESCRIPTION -->
@@ -49,22 +46,6 @@ After you're finished please remove all the comments and instructions!
 **Hello Microverse** is a project to master the tools (git github and github flow) and best practices (documenting a repository in a professional way).
 
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
