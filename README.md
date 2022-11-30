@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
 
   # Hello-Microverse
-  Apply GitHub flow best practices and provide a good documentation
+  <!-- Apply GitHub flow best practices and provide a good documentation -->
 
 </div>
 
